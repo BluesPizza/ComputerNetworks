@@ -1,3 +1,4 @@
 # ComputerNetworks
 Computer Networks term project 
-update 1/4
+# Update status
+update 1/2
